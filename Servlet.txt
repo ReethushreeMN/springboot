@@ -1,0 +1,18 @@
+<div>	
+		<form action="" method="post"">
+		<label>Email : </label>
+		<input type="text"></br></br>
+		
+		<label>Username : </label>
+		<input type="text"></br></br>
+		
+		<button>Login</button>
+		<a href="signup.html">Register here</a>
+		
+	   </form>   
+	 </div>
+
+
+style:   a{
+		margin-left: 10px;
+	}
